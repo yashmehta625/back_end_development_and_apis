@@ -1,0 +1,26 @@
+{
+  "name": "back_end_development_and_apis",
+  "version": "1.0.0",
+  "description": "This project is part of the course on Back End Development ans APIs on freecodecamp.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashmehta625/back_end_development_and_apis.git"
+  },
+  "keywords": [
+    "Back End Development",
+    "node.js",
+    "express",
+    "mongo",
+    "freecodecamp.org"
+  ],
+  "author": "Yash Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yashmehta625/back_end_development_and_apis/issues"
+  },
+  "homepage": "https://github.com/yashmehta625/back_end_development_and_apis#readme"
+}
